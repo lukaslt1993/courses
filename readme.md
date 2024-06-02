@@ -7,7 +7,9 @@
 
 ## Example usage
 
-1. Launch create student request in the provided postman collection
+In the provided postman collection:
+
+1. Launch create student request
 2. Then get all students to verify it was created
 3. Finally, get all payments to see the payment for the user
 
